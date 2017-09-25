@@ -1,0 +1,25 @@
+[{
+	"student_number":"A11",
+	"name":"向晚",
+	"desc":"学营销的研究僧，喜爱编程的文科生，刚刚启程，好奇且求知~",
+	"tags":["研究僧","求知欲"],
+	"checkin":10,
+	"head":"/static/img/me.jpg"
+},
+{
+	"student_number":"A11314",
+	"name":"青牙",
+	"desc":"喜欢学习编程语言却从不想做开发的测试从业人员，爱好游山玩水吃吃喝喝，生活有书有茶自得其乐～",
+	"tags":["吸猫ing","学习ing"],
+	"checkin":9,
+	"head":"/static/img/gege.jpg"
+},
+{
+	"student_number":"A12",
+	"name":"焦糖",
+	"desc":"喜欢理科，却选了文科；一直想做一名匠人，却在学笔译；喜欢吃米饭，却不知道哪里的好吃，纠结ing...",
+	"tags":["纠结体","米饭"],
+	"checkin":11,
+	"head":"/static/img/guoshushu.png"
+}
+]

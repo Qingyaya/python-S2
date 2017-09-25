@@ -1,0 +1,22 @@
+.logo-page{
+	padding-bottom: 14px;
+	border:solid 1px #EFEFEF;
+}
+.uband-logo{
+	width:80px;
+	height:33px;
+	display:block;
+	margin: 0 auto; 
+	padding-top: 5px;
+}
+.bg-wenji{
+	float: right;
+	width: 100px;
+	height: 40px;
+	line-height: 24px;
+	margin: 8px 15px 0;
+	border-radius: 20px;
+	font-size: 15px;
+	color: #ff3a46;
+	background-color: #ea6f5a
+}
